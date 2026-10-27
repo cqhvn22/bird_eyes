@@ -1,0 +1,5 @@
+# Preserve model/calibration bytes used by runtime integrity checks.
+assets/** -text
+
+# Raspberry Pi setup must retain Unix line endings on every platform.
+*.sh text eol=lf

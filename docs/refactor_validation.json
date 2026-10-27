@@ -1,0 +1,28 @@
+{
+  "unchanged_algorithm_definitions": 27,
+  "verified_asset_files": 13,
+  "real_video_frames": [
+    188,
+    189,
+    190,
+    191
+  ],
+  "model_predictions_per_implementation": 4,
+  "depth_calls_per_implementation": 3,
+  "exact_masks_depth_measurements_and_render_match": true,
+  "workflow_result": {
+    "target_id": 1,
+    "n_frames": 3,
+    "requested": 3,
+    "valid_frames": 3,
+    "values": [
+      0.5096980333328247,
+      0.22162156695801966,
+      0.077612411100683
+    ],
+    "verdict": true,
+    "reason": "WITHIN SIZE/DIST LIMITS"
+  },
+  "tests_passed": 49,
+  "real_pi_hardware_tested": false
+}

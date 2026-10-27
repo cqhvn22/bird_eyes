@@ -1,0 +1,12 @@
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+outputs/*
+!outputs/.gitkeep
+# Local videos exceed the project's 20 MB publication limit.
+data/videos/*.mp4
